@@ -22,3 +22,5 @@ parler-tts @ git+https://github.com/huggingface/parler-tts.git
 
 python-multipart==0.0.6
 pydantic-settings==2.1.0
+
+twilio==8.10.0
